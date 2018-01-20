@@ -1,0 +1,1 @@
+# django-paste-image
